@@ -41,14 +41,13 @@ This is a prototype web application built using FastAPI, OpenAI, PostgreSQL, and
 ```bash
 git clone https://github.com/danabr21285/comlex-question-generator.git
 cd comlex-question-generator
+---
 
-2. Set up a virtual environment and install dependencies
-bash
-Copy
-Edit
+### 2. Set up a virtual environment and install dependencies
 python -m venv env
-source env/bin/activate  # Windows: env\Scripts\activate
+source env/bin/activate   # On Windows: env\Scripts\activate
 pip install -r requirements.txt
+
 
 3. Create a .env file with your own keys and credentials:
 ini
