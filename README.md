@@ -7,7 +7,7 @@ This is a prototype web application built using FastAPI, OpenAI, PostgreSQL, and
 ---
 
 ## 📸 Screenshot
-![App Screenshot]("C:\Users\danabr\Pictures\COMLEX Question Genrator\README.md\images\ThinkRx.jpeg")
+
 ---
 
 ## 🧰 Tech Stack
