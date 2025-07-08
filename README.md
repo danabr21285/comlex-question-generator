@@ -7,7 +7,7 @@ This is a prototype web application built using FastAPI, OpenAI, PostgreSQL, and
 ---
 
 ## 📸 Screenshot
-![App Screenshot](images/screenshot.png)
+![App Screenshot]("C:\Users\danabr\Documents\screenshot.png")
 ---
 
 ## 🧰 Tech Stack
