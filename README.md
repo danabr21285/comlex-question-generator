@@ -7,6 +7,7 @@ This is a prototype web application built using FastAPI, OpenAI, PostgreSQL, and
 ---
 
 ## 📸 Screenshot
+![App Screenshot](images/ThinkRx.jpeg)
 
 ---
 
