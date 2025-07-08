@@ -43,7 +43,7 @@ git clone https://github.com/danabr21285/comlex-question-generator.git
 cd comlex-question-generator
 ---
 
-### 2. Set up a virtual environment and install dependencies
+### **2. Set up a virtual environment and install dependencies**
 python -m venv env
 source env/bin/activate   # On Windows: env\Scripts\activate
 pip install -r requirements.txt
