@@ -37,7 +37,7 @@ This is a prototype web application built using FastAPI, OpenAI, PostgreSQL, and
 
 ## 🛠️ Installation
 
-```bash
+
 git clone https://github.com/danabr21285/comlex-question-generator.git
 cd comlex-question-generator
 
