@@ -55,25 +55,25 @@ http://localhost:8000
 ```
 
 # 🧠 How It Works
-The user registers and logs in
+- The user registers and logs in
 
-They select a medical topic (e.g., "Renal Physiology")
+- They select a medical topic (e.g., "Renal Physiology")
 
-The app uses GPT-4 to generate a new COMLEX question
+- The app uses GPT-4 to generate a new COMLEX question
 
-The user submits an answer, and GPT-4 evaluates the response:
+- The user submits an answer, and GPT-4 evaluates the response:
 
 ✅ If correct: Reinforces learning and clinical application
 
 ❌ If incorrect: Provides constructive feedback and improvement strategies
 
-User progress is tracked, including:
+# User progress is tracked, including:
 
-Accuracy
+- Accuracy
 
-Current and longest streaks
+- Current and longest streaks
 
-Points and leveling system
+- Points and leveling system
 
 # 🗂️ File Structure
 
