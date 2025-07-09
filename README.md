@@ -84,8 +84,7 @@ comlex-question-generator/
 ├── requirements.txt       # Python dependencies  
 ├── .env                   # Environment variables (not committed)  
 ├── README.md              # Project documentation  
-└── images/  
-    └── screenshot.png     # App screenshot
+
 
 # 🔐 Security Notes
 Passwords are hashed using bcrypt
