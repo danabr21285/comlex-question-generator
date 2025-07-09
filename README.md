@@ -9,12 +9,6 @@ You may not reuse, reproduce, or publish this code or concept without explicit p
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](images/screenshot.png)
-
----
-
 ## 🧰 Tech Stack
 
 - **Language**: Python  
