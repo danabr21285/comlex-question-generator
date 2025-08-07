@@ -98,6 +98,5 @@ Keep your OPENAI_API_KEY and SECRET_KEY private
 
 # 📬 About the Creator
 # Dana Brooks
-👩‍💻 Executive Director of Admissions
 ✉️ Email: danatallent@yahoo.com
 🔗 LinkedIn www.linkedin.com/in/dana-tallent-brooks-a15977a0
