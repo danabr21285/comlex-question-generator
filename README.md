@@ -9,7 +9,7 @@ You may not reuse, reproduce, or publish this code or concept without explicit p
 
 ---
 ### Snapshot 
-![snapshot](Screenshot%80%1%.png)
+![snapshot](snap.png)
 
 ## 🧰 Tech Stack
 
