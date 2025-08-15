@@ -8,7 +8,7 @@ You may not reuse, reproduce, or publish this code or concept without explicit p
 © 2025 Dana Brooks. All rights reserved.
 
 ---
-
+### Snapshot 
 ![snapshot](SavingsGrowthModel-ezgif.com-video-to-gif-converter.gif)
 
 ## 🧰 Tech Stack
