@@ -9,6 +9,8 @@ You may not reuse, reproduce, or publish this code or concept without explicit p
 
 ---
 
+![snapshot](SavingsGrowthModel-ezgif.com-video-to-gif-converter.gif)
+
 ## 🧰 Tech Stack
 
 - **Language**: Python  
