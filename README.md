@@ -8,9 +8,11 @@ You may not reuse, reproduce, or publish this code or concept without explicit p
 © 2025 Dana Brooks. All rights reserved.
 
 ---
-### Snapshot 
+### Snapshots 
 ![snapshot](snap.png)
-
+# Feedback 
+![snapshot](snaps.png)
+---
 ## 🧰 Tech Stack
 
 - **Language**: Python  
